@@ -1,0 +1,9 @@
+run
+-ifmt MIXED
+-top clk_manager_exdes
+-p xc7a200t-fbg484-2
+-ifn xst.prj
+-ofn clk_manager_exdes
+-keep_hierarchy soft 
+-equivalent_register_removal no 
+-max_fanout 65535

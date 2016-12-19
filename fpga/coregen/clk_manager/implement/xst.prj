@@ -1,0 +1,2 @@
+vhdl work ../../clk_manager.vhd
+vhdl work ../example_design/clk_manager_exdes.vhd

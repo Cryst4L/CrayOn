@@ -1,0 +1,27 @@
+;Program memory Initialisation	;
+;Be careful to use the correct	;
+;payload at line 24 !!!			;
+;Activation with no pool		;
+;and use of the TanH function	;
+;here is a little help table	;
+;4800	pool	lin				;
+;4900	pool	relu			;
+;4a00	pool	tanh			;
+memory_initialization_radix=16;
+memory_initialization_vector=
+;*Config*;
+1170, 
+;*Push*;
+2000, 
+;*Copy*;
+3000, 
+;*Fire*;
+4900,
+;*Config*;
+1060, 
+;*Copy*;
+3000,
+;*Store*;
+5000, 
+;*Restart*;
+0007; 

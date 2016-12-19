@@ -1,0 +1,14 @@
+# Output products list for <bram_line>
+_xmsgs/pn_parser.xmsgs
+bram_line/doc/c_shift_ram_v11_0_readme.txt
+bram_line/doc/c_shift_ram_v11_0_vinfo.html
+bram_line/doc/ds228_shift_ram.pdf
+bram_line.asy
+bram_line.gise
+bram_line.ngc
+bram_line.vhd
+bram_line.vho
+bram_line.xco
+bram_line.xise
+bram_line_flist.txt
+bram_line_xmdf.tcl

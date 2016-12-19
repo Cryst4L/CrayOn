@@ -1,0 +1,15 @@
+# Output products list for <madd>
+_xmsgs/pn_parser.xmsgs
+madd/doc/dsp48_macro_ds754.pdf
+madd/doc/xbip_dsp48_macro_v2_1_readme.txt
+madd/doc/xbip_dsp48_macro_v2_1_vinfo.html
+madd.asy
+madd.gise
+madd.ngc
+madd.sym
+madd.v
+madd.veo
+madd.xco
+madd.xise
+madd_flist.txt
+madd_xmdf.tcl
