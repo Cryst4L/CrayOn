@@ -17,7 +17,7 @@ In the end, the whole system is roughly 8 times faster than an I5 (Skylake) CPU 
 The following diagram shows the occupation of the Artix 200T chip:
 
 <p align="center">
-  <img src="https://github.com/Cryst4L/CrayOn/blob/master/assets/Plan-III-BR.png"/>
+  <img src="https://github.com/Cryst4L/CrayOn/blob/master/assets/plan-III-BR.png"/>
 </p>
 
 
