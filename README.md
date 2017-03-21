@@ -45,6 +45,6 @@ I pushed this work on GitHub for the curious minds who would be interested to se
 
 But as I'm not sure what kind of second life I want to give to this project, I deciced [not to provide a license](http://choosealicense.com/no-license/) for now.
 
-So technically, everything expected the firmware sources, is "All Right Reserved" to me B.H. 
+So technically, everything excepted the firmware sources, is "All Right Reserved" to me B.H. 
 
 That being said, I might switch to a GPL at some points.  
