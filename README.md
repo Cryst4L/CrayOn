@@ -2,11 +2,11 @@
 
 ## What is this?
 
-CrayOn is an FPGA based processor dedicated to _Convolutional Neural Networks_, a well know image understanding algorithm.
+CrayOn is an FPGA based processor dedicated to _Convolutional Neural Networks_, a well known image understanding algorithm.
 
 It relies both on a massively parallel/pipelined arrangement of its arithmetic, and on a distributed organization of its internal memory, to speed up the processing of images with such models. 
 
-I started this project in the BREIL, an AI lab located in the Korean Advanced Institue of Sience and Technology (KAIST).
+I started this project in the BREIL, an AI lab located in the Korean Advanced Institue of Science and Technology (KAIST).
 
 <p align="center">
   <img src="https://github.com/Cryst4L/CrayOn/blob/master/assets/set-App.png"/>
