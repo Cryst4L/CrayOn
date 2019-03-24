@@ -8,6 +8,11 @@ It relies both on a massively parallel/pipelined arrangement of its arithmetic, 
 
 I started this project in the BREIL, an AI lab located in the Korean Advanced Institue of Sience and Technology (KAIST).
 
+<p align="center">
+  <img src="https://github.com/Cryst4L/CrayOn/blob/master/assets/set-App.png"/>
+</p>
+
+
 The design itself is described in VHDL-98, and targets Xilinx Series 7 FPGAs, thus making an extensive use of their specific discrete components, such as the cascaded DSP blocks and RAM based FIFO's.
 
 Once instanciated on a (low-end) Artix 200T chip, the design delivers up to 261 GOp/s, with an internal bandwith peaking at 4.8 GT/s. 
