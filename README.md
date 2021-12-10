@@ -2,6 +2,8 @@
 
 ## What is this?
 
+[Paper Here](https://benhal.com/crayon)
+
 CrayOn is an FPGA based processor dedicated to _Convolutional Neural Networks_, a well known image understanding algorithm.
 
 It relies both on a massively parallel/pipelined arrangement of its arithmetic, and on a distributed organization of its internal memory, to speed up the processing of images with such models. 
